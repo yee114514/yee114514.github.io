@@ -303,7 +303,7 @@ articles:
   # Code block settings
   code_block:
     copy: true # Whether to enable code block copy button
-    style: mac # mac | simple
+    style: simple # mac | simple
     highlight_theme: # Color scheme for highlightjs code highlighting. For preview, see https://highlightjs.org/examples
       light: github # light mode theme, support: github, atom-one-light, default
       dark: vs2015 # dark mode theme, support: github-dark, monokai-sublime, vs2015, night-owl, atom-one-dark, nord, tokyo-night-dark, a11y-dark, agate
@@ -314,8 +314,8 @@ articles:
   # Table of contents settings
   toc:
     enable: true # Whether to enable TOC
-    max_depth: 3 # TOC depth
-    number: false # Whether to add number to TOC automatically
+    max_depth: 6 # TOC depth
+    number: true # Whether to add number to TOC automatically
     expand: true # Whether to expand TOC
     init_open: true # Open toc by default
   # Whether to enable copyright notice
@@ -348,7 +348,7 @@ comment:
   # Whether to enable comment
   enable: true
   # Comment system
-  system: gitalk # waline, gitalk, twikoo, giscus, utterances, artalk
+  system: utterances # waline, gitalk, twikoo, giscus, utterances, artalk
   # System configuration
   config:
     # Waline comment system. See https://waline.js.org/
@@ -363,7 +363,7 @@ comment:
     gitalk:
       clientID: Ov23liGjuDZkQhb0CBR8 # GitHub Application Client ID
       clientSecret: ce10b829aee0d8f86b1ae6488c2930524357b8c8 # GitHub Application Client Secret
-      repo: yee114514-gitalk # GitHub repository
+      repo: comment # GitHub repository
       owner: yee114514 # GitHub repository owner
       proxy: # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
@@ -390,7 +390,7 @@ comment:
       site: # Site name shown in Artalk admin (should match server-side site config)
     # Utterances comment system. See https://utteranc.es/
     utterances:
-      repo: # GitHub repository name e.g. owner/repo (Issues must be enabled)
+      repo: yee114514/comment # GitHub repository name e.g. owner/repo (Issues must be enabled)
       issue_term: pathname # pathname, url, title, og:title (recommended: pathname for single-page mode)
       issue_number: # Use a specific issue number instead of issue_term
       label: # Optional label for created issues
