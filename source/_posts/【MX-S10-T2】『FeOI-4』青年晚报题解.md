@@ -1,7 +1,7 @@
 ---
 title: 【MX-S10-T2】『FeOI-4』青年晚报题解
 date: 2025-11-10
-tags:题解
+tags: 题解
 ---
 
 题目链接：[洛谷P14461](https://www.luogu.com.cn/problem/P14461)
