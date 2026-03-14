@@ -1,8 +1,7 @@
 ---
-title: 快速傅里叶变换 $(FFT)$ 学习笔记
+title: 快速傅里叶变换学习笔记
 date: 2025-04-3
 tags: 笔记
-mathjax: true
 ---
 
 # 快速傅里叶变换 $(FFT)$ 学习笔记
