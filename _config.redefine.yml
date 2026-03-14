@@ -12,7 +12,7 @@ info:
   # Site title
   title: syee的博客
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: ""
   # Author name
   author: syee
   # Site URL
@@ -125,13 +125,13 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image:
-    light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    light: /images/background.png # light mode
+    dark: /images/background.png # dark mode
   # Home banner title
   title: syee的博客
   # Home banner subtitle
   subtitle:
-    text: ["生如夏花之绚烂，死如秋叶之静美"] # subtitle text, array
+    text: # subtitle text, array
     hitokoto: # 一言配置
       enable: true # Whether to enable hitokoto
       show_author: true # Whether to show author
