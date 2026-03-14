@@ -1,11 +1,10 @@
 ---
-layout: p14520
 title: 【MX-S11-T1】战争游戏题解
 date: 2025-11-16
 tags:题解
 ---
 
-原题：[洛谷P14520](https://www.luogu.com.cn/problem/P14520)
+题目链接：[洛谷P14520](https://www.luogu.com.cn/problem/P14520)
 
 不难发现答案有单调性，所以答案一定是一串 $0$ 加一串 $1$ 的形式。  
 感性思考一下，似乎 $0$ 和 $1$ 的分界点与士兵总数有关，于是猜测第一个使 $sum_L \gt sum_K$ 的位置便是 $1$ 的起点。  
