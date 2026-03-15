@@ -204,9 +204,18 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    Home:
-      path: /
-      icon: fa-regular fa-house # can be empty
+    Luogu:
+      path: https://www.luogu.com.cn/user/691386
+      icon: # can be empty
+    Codeforces:
+      path: https://codeforces.com/profile/syeeh
+      icon: # can be empty
+    AtCoder:
+      path: https://atcoder.jp/users/syee
+      icon: # can be empty
+    Github:
+      path: https://github.com/yee114514
+      icon: fa-brands fa-github # can be empty
     Tags: #取名随意
       icon: fa-solid fa-tags #图标
       path: /tags/ #链接
