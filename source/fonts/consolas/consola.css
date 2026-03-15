@@ -1,0 +1,35 @@
+/* 常规体 */
+@font-face {
+    font-family: 'consolas';
+    src: url('/fonts/consola.ttf') format('truetype');
+    font-weight: 400;          /* 常规字重通常为 400 */
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 粗体 */
+@font-face {
+    font-family: 'consolas';
+    src: url('/fonts/consolab.ttf') format('truetype');
+    font-weight: 700;          /* 粗体对应 700 */
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 常规斜体 */
+@font-face {
+    font-family: 'consolas';
+    src: url('/fonts/consolai.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 粗斜体 */
+@font-face {
+    font-family: 'consolas';
+    src: url('/fonts/consolaz.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
