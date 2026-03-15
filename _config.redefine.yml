@@ -12,7 +12,7 @@ info:
   # Site title
   title: syee的博客
   # Site subtitle
-  subtitle: ""
+  subtitle: "blog"
   # Author name
   author: syee
   # Site URL
@@ -23,11 +23,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/icon.svg
   # Site logo
-  logo:
+  logo: /images/icon.svg
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: /images/icon.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
