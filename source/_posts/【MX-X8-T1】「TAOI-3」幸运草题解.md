@@ -1,7 +1,7 @@
 ---
 title: 【MX-X8-T1】「TAOI-3」幸运草题解
 date: 2025-01-31
-tags: 题解
+tags: [题解,OI]
 ---
 
 题目链接：[洛谷P11642](https://www.luogu.com.cn/problem/P11642)

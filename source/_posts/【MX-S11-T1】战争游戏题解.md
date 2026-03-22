@@ -1,7 +1,7 @@
 ---
 title: 【MX-S11-T1】战争游戏题解
 date: 2025-11-16
-tags: 题解
+tags: [题解,OI]
 ---
 
 题目链接：[洛谷P14520](https://www.luogu.com.cn/problem/P14520)

@@ -1,7 +1,7 @@
 ---
 title: 【MX-X12-T2】「ALFR Round 5」Dream of Sky
 date: 2025-05-06
-tags: 题解
+tags: [题解,OI]
 ---
 
 题目链接：[洛谷P12419](https://www.luogu.com.cn/problem/P12419)
