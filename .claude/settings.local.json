@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx hexo:*)"
+      "Bash(npx hexo:*)",
+      "Bash(npx patch-package:*)"
     ]
   }
 }
